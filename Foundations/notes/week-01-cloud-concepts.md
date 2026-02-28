@@ -1,10 +1,10 @@
-# Week 1 — Cloud Concepts & AWS Orientation
-**Dates:** Febuary 27–March 5, 2026  
-**Status:** ⏳ In Progress
+Week 1 — Cloud Concepts & AWS Orientation
+Dates: Febuary 27–March 5, 2026  
+Status: ⏳ In Progress
 
 ---
 
-## 📅 Daily Log
+📅 Daily Log
 
 Feb 27 (fri) — How the Cloud Works
 Time spent: _30 minutes_ 
@@ -84,12 +84,12 @@ Key concepts from Module 2:
 
 Mar 5 (Thur) — AWS Skill Builder Modules 3 & 4
 Time spent: ___  
-**Modules:** Core Services Intro + Networking
+Modules: Core Services Intro + Networking
 
-**Key concepts from Module 3:**
+Key concepts from Module 3:
 - 
 
-**Key concepts from Module 4:**
+Key concepts from Module 4:
 - 
 
 ---
@@ -112,7 +112,7 @@ Write 3–5 sentences summarising the week as if explaining it to someone who kn
 
 ---
 
-## 🔗 Resources Used This Week
+🔗 Resources Used This Week
 - AWS Overview Whitepaper: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
 - TechWorld with Nana YouTube: https://youtube.com/@TechWorldwithNana
 - AWS Skill Builder: https://skillbuilder.aws
