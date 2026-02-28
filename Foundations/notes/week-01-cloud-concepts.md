@@ -20,16 +20,16 @@ Questions I still have:
 
 
 Feb 28 (Sat) — IaaS vs PaaS vs SaaS
-Time spent: ___  
-Resource: TechWorld with Nana — Cloud Computing Fundamentals
+Time spent: _20 minutes__  
+Resource: IBM Technology — IaaS, PaaS, SaaS
 
 Key takeaways (in my own words):
-- 
-- 
-- 
+- IaaS is more complex than PaaS and SaaS
+- IaaS is made up of compute, storage, and networking services
+- Most of the Softwares we come in contact with or access through the internet on a day-to-day basis are mostly SaaS
 
 Questions I still have:
-- 
+- None
 
 
 Mar 1 (Sun) — AWS Console Orientation
